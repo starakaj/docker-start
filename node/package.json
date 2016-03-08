@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Basic node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starakaj/docker-start.git"
+  },
+  "author": "Sam Tarakajian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starakaj/docker-start/issues"
+  },
+  "homepage": "https://github.com/starakaj/docker-start#readme"
+}
